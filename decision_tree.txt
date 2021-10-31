@@ -1,0 +1,9 @@
+
+
+The following factors influence the decision to fold, call, or raise, as well as the amount to raise.
+    (1)  Amount of money in the pot:  players who low on funds to play more conservatively and are therefore more
+    likely to fold for large bets made by the other players.  All else being equal, they are also more likely to call rather than raise for smaller bets
+    made by the other player.
+    (2)  Quality of the hand:  for a high quality hand
+    (3) Willingness to bluff
+    (4) Amount of money bet by the other player
